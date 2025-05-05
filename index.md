@@ -19,3 +19,8 @@ matrix_dot_product = arr1 @ arr2
 print("The dot product of the matrix 1 and 2 is=\n", matrix_dot_product)
 
 ```
+
+
+- [x] NumPy used in the previous snippet
+- [x] Python project
+- [ ] C project?    
